@@ -13,5 +13,12 @@ Commit3: Añadida la funcion Geolocalización de IP, que usa la API de IPINFO. T
 un mapa con FOLIUM , poniendo un pin en la localización de la ip, usando la latitud y longitud
 del diccionario de respuesta que nos devuelve la API.
 
+Commit4: Añadida la funcionalidad de Geolocalización de un número telefónico usando phonenumbers,
+mas concretamente los módulos geocoder, carrier y timezone.
+Función de pintado en mapa con Folium, y codificación de la geolocalozación con Photon.
+
+
+
+
 
 

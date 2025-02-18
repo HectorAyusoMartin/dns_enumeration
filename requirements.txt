@@ -1,3 +1,6 @@
 dnspython
 python-whois
 ipinfo
+phonenumbers
+requests
+geopy
